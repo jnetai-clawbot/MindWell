@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary -->
+    <color name="primary">#FF6B9F</color>
+    <color name="primaryVariant">#FF4081</color>
+    <color name="onPrimary">#FFFFFF</color>
+
+    <!-- Secondary -->
+    <color name="secondary">#81C784</color>
+    <color name="secondaryVariant">#66BB6A</color>
+    <color name="onSecondary">#000000</color>
+
+    <!-- Background -->
+    <color name="surface">#121212</color>
+    <color name="onSurface">#E1E1E1</color>
+    <color name="surfaceVariant">#1E1E1E</color>
+    <color name="onSurfaceVariant">#B0B0B0</color>
+
+    <!-- Cards -->
+    <color name="card_bg">#1E1E1E</color>
+    <color name="card_stroke">#333333</color>
+
+    <!-- Crisis -->
+    <color name="crisis_card_bg">#2D1B1B</color>
+    <color name="crisis_stroke">#EF5350</color>
+    <color name="crisis_name">#FF8A80</color>
+    <color name="crisis_number">#EF5350</color>
+    <color name="crisis_desc">#B0B0B0</color>
+
+    <!-- Standard -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#CF6679</color>
+    <color name="background">#121212</color>
+</resources>

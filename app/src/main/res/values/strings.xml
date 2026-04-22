@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindWell</string>
+    <string name="mood_tracker">Daily Mood</string>
+    <string name="journal">Journal</string>
+    <string name="breathing">Breathing Exercises</string>
+    <string name="coping">Coping Strategies</string>
+    <string name="crisis">Crisis Resources</string>
+    <string name="tips">Daily Tips</string>
+    <string name="chart">Mood Chart</string>
+    <string name="about">About MindWell</string>
+</resources>
